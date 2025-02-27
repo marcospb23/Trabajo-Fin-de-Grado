@@ -1,0 +1,16 @@
+pytorch/model_weights.pth
+.ipynb_checkpoints/Clases en Python-checkpoint.ipynb
+.ipynb_checkpoints/pytorch-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/autogradqs_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/buildmodel_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/data_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/optimization_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/saveloadrun_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/tensor_tutorial-checkpoint.ipynb
+pytorch/.ipynb_checkpoints/transforms_tutorial-checkpoint.ipynb
+pytorch/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+pytorch/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+pytorch/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+pytorch/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+pytorch/data/FashionMNIST/raw/train-images-idx3-ubyte
+pytorch/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
