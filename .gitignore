@@ -14,3 +14,4 @@ pytorch/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
 pytorch/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
 pytorch/data/FashionMNIST/raw/train-images-idx3-ubyte
 pytorch/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+.ipynb_checkpoints/prueba_excel-checkpoint.ipynb
